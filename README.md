@@ -1,6 +1,5 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Convolutional NN
+Training a CNN o classify images of clothing, like sneakers and shirts and comparing its results to a FNN.
 
-After this lesson, you will should be able to:
+The dataset comes with Keras. A summary of the dataset can be found [here](https://keras.io/api/datasets/fashion_mnist/).
 
-- Train CNN for image classification
-- Understand why CNNs tend to outperform FNN for most tasks with image data
+![black and white images of clothing and apparel](https://imgur.com/NMUl2La.jpg)
